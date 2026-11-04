@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AIRE",
+    "slug": "aire-mobile",
+    "version": "0.1.0",
+    "scheme": "com.northeia.aire",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "com.northeia.aire" },
+    "android": { "package": "com.northeia.aire" },
+    "plugins": ["expo-secure-store", "expo-web-browser", "expo-notifications"]
+  }
+}
